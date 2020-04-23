@@ -24,7 +24,7 @@ The current workshop taking place is divided into 3 sessions:
 2. (date to be announced later) Simulations with Ubermag
 3. (date to be announced later) Data analysis and visualisation
 
-The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop and join the session using this [link]().
+The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop and join the session using this [link](https://us04web.zoom.us/j/74465485256).
 
 To follow the tutorials and do the exercises, you can use Binder. We recommend using Google Chrome as a web browser.
 
