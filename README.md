@@ -14,7 +14,7 @@ Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1<
 
 ## About
 
-This repository is a place where the materials (slides, tutorials, and exercises) used in Ubermag workshops are collected.
+This repository is a place where all the materials (slides, tutorials, and exercises) used in Ubermag workshops are collected.
 
 ## Current workshop
 
@@ -28,11 +28,11 @@ Optional follow-up sessions, depending on the requests and feedback might be org
 
 ## What to do before the workshop?
 
-1. The workshop will delivered using [Zoom](https://zoom.us). Please install [Zoom](https://zoom.us) before the workshop and join the session using this https://us04web.zoom.us/j/74465485256. There is no need to create an account with Zoom.
+1. The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop and join the session using this link: https://us04web.zoom.us/j/74465485256. There is no need to create an account with Zoom.
 
-2. To access the files in this repository, you do not need a GitHub. However, if you want to contribute to Ubermag or raise questions, you are going to need an account.
+2. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. Ubermag in the cloud can be accessed using Binder badge in the table above. Starting the cloud service can take a few minutes, so please be patient.
 
-3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. The cloud service is provided using Binder and it can be accessed using Binder badge in the table above. Starting the cloud service can take a few minutes, so please be patient. WARNING: The most recent update of Safari browser on MacOS in some cases does not interpret the colours well in 3D interactive plots and we recommend using Google Chrome.
+WARNING: The most recent update of Safari browser on MacOS sometimes does not interpret the colours well in 3D interactive plots and we recommend using Google Chrome for Ubermag.
 
 ## Documentation
 
