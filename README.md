@@ -7,10 +7,9 @@ Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1<
 | Description | Badge |
 | --- | --- |
 | Builds | [![Build Status](https://travis-ci.org/ubermag/workshop.svg?branch=master)](https://travis-ci.org/ubermag/workshop) |
-|        | [![Build status](https://ci.appveyor.com/api/projects/status/dncvthjnly2chh7s?svg=true)](https://ci.appveyor.com/project/marijanbeg/workshop) |
-| Documentation | [![Documentation Status](https://readthedocs.org/projects/ubermag-workshop/badge/?version=latest)](https://ubermag-workshop.readthedocs.io/en/latest/?badge=latest) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master?urlpath=lab/tree/tutorials/index.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| Zoom | [![Zoom_ID 74465485256](https://img.shields.io/badge/Zoom_ID-74465485256-brightgreen.svg)](https://us04web.zoom.us/j/74465485256) |
 
 ## About
 
