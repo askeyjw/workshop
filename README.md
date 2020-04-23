@@ -28,7 +28,7 @@ Optional follow-up sessions, depending on the requests and feedback might be org
 
 ## What to do before the workshop?
 
-1. The workshop will delivered using [Zoom](https://zoom.us). Please install [Zoom](https://zoom.us) before the workshop and join the session using this [link](https://us04web.zoom.us/j/74465485256). There is no need to create an account with Zoom.
+1. The workshop will delivered using [Zoom](https://zoom.us). Please install [Zoom](https://zoom.us) before the workshop and join the session using this https://us04web.zoom.us/j/74465485256. There is no need to create an account with Zoom.
 
 2. To access the files in this repository, you do not need a GitHub. However, if you want to contribute to Ubermag or raise questions, you are going to need an account.
 
