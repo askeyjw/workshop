@@ -6,35 +6,36 @@ Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1<
 
 | Description | Badge |
 | --- | --- |
-| Builds | [![Build Status](https://travis-ci.org/ubermag/oommfc.svg?branch=master)](https://travis-ci.org/ubermag/oommfc) |
-|        | [![Build status](https://ci.appveyor.com/api/projects/status/dsbae0ntj4coa9hl?svg=true)](https://ci.appveyor.com/project/marijanbeg/oommfc) |
-| Documentation | [![Documentation Status](https://readthedocs.org/projects/oommfc/badge/?version=latest)](https://oommfc.readthedocs.io/en/latest/?badge=latest) |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/oommfc/master?urlpath=lab/tree/docs/ipynb/index.ipynb) |
+| Builds | [![Build Status](https://travis-ci.org/ubermag/workshop.svg?branch=master)](https://travis-ci.org/ubermag/workshop) |
+|        | [![Build status](https://ci.appveyor.com/api/projects/status/dncvthjnly2chh7s?svg=true)](https://ci.appveyor.com/project/marijanbeg/workshop) |
+| Documentation | [![Documentation Status](https://readthedocs.org/projects/ubermag-workshop/badge/?version=latest)](https://ubermag-workshop.readthedocs.io/en/latest/?badge=latest) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master?urlpath=lab/tree/tutorials/index.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## About
 
-This repository is a place where the materials used in Ubermag workshops are collected.
+This repository is a place where the materials (slides, tutorials, and exercises) used in Ubermag workshops are collected.
 
-## How to join?
+## Current workshop
 
 The current workshop taking place is divided into 3 sessions:
 
-1. 24 April 2020, 14:00-15:30 - Micromagnetics basics, Python, Jupyter
-2. (date to be announced later) Simulations with Ubermag
+1. Friday 24 April 2020, 14:00-15:30 - Micromagnetics basics, Python, Jupyter
+2. Wednesday 29 April 2020, 14:00-15:30 Simulations with Ubermag
 3. (date to be announced later) Data analysis and visualisation
+4. (optional follow-up session depending on the requests and feedback)
 
-The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop and join the session using this [link](https://us04web.zoom.us/j/74465485256).
+## What to do before the workshop?
 
-To follow the tutorials and do the exercises, you can use Binder. We recommend using Google Chrome as a web browser.
+1. The workshop will delivered using [Zoom](https://zoom.us). Please install [Zoom](https://zoom.us) before the workshop and join the session using this [link](https://us04web.zoom.us/j/74465485256). There is no need to create an account with Zoom.
+
+2. To access the files in this repository, you do not need a GitHub. However, if you want to contribute to Ubermag or raise questions, you are going to need an account.
+
+3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. The cloud service is provided using Binder and it can be accessed using Binder badge in the table above. WARNING: The most recent update of Safari browser on MacOS in some cases does not interpret the colours well in 3D interactive plots. Therefore, we recommend using Google Chrome.
 
 ## Documentation
 
-Jupyter notebooks are available as a part of documentation.
-
-## Binder
-
-The tutorials and exercises can be used in the cloud. This does not require to have anything installed and no files will be created on your machine. To access Binder, use the Binder badge in the table above.
+Rendered tutorials as Jupyter notebooks are available as a part of documentation.
 
 ## Support
 
