@@ -13,7 +13,7 @@ Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1<
 
 ## About
 
-This repository is a place where all the materials (slides, tutorials, and exercises) used in Ubermag workshops are collected.
+This repository is a place where all the materials (slides, tutorials, and exercises) used in Ubermag workshops are stored.
 
 ## Current workshop
 
@@ -32,10 +32,6 @@ Optional follow-up sessions, depending on the requests and feedback might be org
 2. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. Ubermag in the cloud can be accessed using Binder badge in the table above. Starting the cloud service can take a few minutes, so please be patient.
 
 WARNING: The most recent update of Safari browser on MacOS sometimes does not interpret the colours well in 3D interactive plots and we recommend using Google Chrome for Ubermag.
-
-## Documentation
-
-Rendered tutorials as Jupyter notebooks are available as a part of documentation.
 
 ## Support
 
