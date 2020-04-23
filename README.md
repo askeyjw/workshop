@@ -1,4 +1,4 @@
-# Workshop: Computational micromagnetics with Ubermag
+# Workshop: Micromagnetics with Ubermag
 Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1</sup>
 
 <sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
@@ -18,12 +18,13 @@ This repository is a place where the materials (slides, tutorials, and exercises
 
 ## Current workshop
 
-The current workshop taking place is divided into 3 sessions:
+The current workshop is divided into 3 sessions:
 
-1. Friday 24 April 2020, 14:00-15:30 - Micromagnetics basics, Python, Jupyter
-2. Wednesday 29 April 2020, 14:00-15:30 Simulations with Ubermag
-3. (date to be announced later) Data analysis and visualisation
-4. (optional follow-up session depending on the requests and feedback)
+1. Friday 24 April 2020, 14:00-15:30 (UK time) - The basics of micromagnetics, Jupyter, and Python
+2. Wednesday 29 April 2020, 14:00-15:30 (UK time) - Micromagnetics with Ubermag
+3. Monday 4 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag
+
+Optional follow-up sessions, depending on the requests and feedback might be organised in the future.
 
 ## What to do before the workshop?
 
@@ -31,7 +32,7 @@ The current workshop taking place is divided into 3 sessions:
 
 2. To access the files in this repository, you do not need a GitHub. However, if you want to contribute to Ubermag or raise questions, you are going to need an account.
 
-3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. The cloud service is provided using Binder and it can be accessed using Binder badge in the table above. WARNING: The most recent update of Safari browser on MacOS in some cases does not interpret the colours well in 3D interactive plots. Therefore, we recommend using Google Chrome.
+3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. The cloud service is provided using Binder and it can be accessed using Binder badge in the table above. Starting the cloud service can take a few minutes, so please be patient. WARNING: The most recent update of Safari browser on MacOS in some cases does not interpret the colours well in 3D interactive plots and we recommend using Google Chrome.
 
 ## Documentation
 
