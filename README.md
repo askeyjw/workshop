@@ -15,12 +15,20 @@ Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1<
 
 This repository is a place where all the materials (slides, tutorials, and exercises) used in Ubermag workshops are stored.
 
+1. The slides (as PDF) can be found in `slides` directory. The slides do not have animations in order to make sure the files are of reasonable size and accessible by everybody. If you want the full presentation in Keynote format, please let Marijan Beg know. The slides are going to be extended as we progress through other sessions.
+
+2. Tutorials and exercises as Jupyter notebooks are available in `tutorials` directory. More will be added as we go through the workshop. They are also accessible via Binder.
+
+3. The materials addressing (too) specific questions we did not have time to discuss during live sessions, are going to be available in `extras` directory.
+
+This is a public repository and it can be seen by everybody. If you want to contribute to it, please be careful what data you share.
+
 ## Current workshop
 
 The current workshop is divided into 3 sessions:
 
-1. Friday 24 April 2020, 14:00-15:30 (UK time) - The basics of micromagnetics, Jupyter, and Python
-2. Wednesday 29 April 2020, 14:00-15:30 (UK time) - Micromagnetics with Ubermag
+1. (DONE) Friday 24 April 2020, 14:00-15:30 (UK time) - The basics of micromagnetics, Jupyter, and Python
+2. (NEXT) Wednesday 29 April 2020, 14:00-15:30 (UK time) - Micromagnetics with Ubermag
 3. Monday 4 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag
 
 Optional follow-up sessions, depending on the requests and feedback might be organised in the future.
