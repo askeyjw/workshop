@@ -27,10 +27,10 @@ This is a public repository and it can be seen by everybody. If you want to cont
 
 The current workshop is divided into 4 sessions:
 
-1. (DONE) Friday 24 April 2020, 14:00-15:30 (UK time) - The basics of micromagnetics, Jupyter, and Python
-2. (DONE) Wednesday 29 April 2020, 14:00-15:30 (UK time) - Micromagnetics with Ubermag
-3. (NEXT) Monday 4 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag
-4. (to be confirmed...) Thursday 14 May 2020, 14:00-15:30 (UK time) - Advanced Ubermag
+1. Friday 24 April 2020, 14:00-15:30 (UK time) - The basics of micromagnetics, Jupyter, and Python
+2. Wednesday 29 April 2020, 14:00-15:30 (UK time) - Micromagnetics with Ubermag
+3. Monday 4 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag 1
+4. Thursday 14 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag 2
 
 Optional follow-up sessions, depending on the requests and feedback might be organised in the future.
 
