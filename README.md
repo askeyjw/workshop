@@ -11,9 +11,11 @@ Marijan Beg<sup>1</sup>, Ryan A. Pepper<sup>1</sup>, and Hans Fangohr<sup>1,2</s
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master?filepath=tutorials%2Findex.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
-## About
+## About this repository
 
-This repository is a place where all the information and materials related to the workshop will be shared. In addition, in this repository, we are going to communicate with our participants using `Issues`. This is a public repository and it can be seen by everybody and you do not need a GitHub account to be able to download anything. However, if you want to ask a question, you are going to need a GitHub account.
+This repository is a place where all the information and materials related to the workshop will be shared. Apart from that, we are going to communicate here with the participants using `Issues`. This is a public repository and all its content it can be seen and downloaded by everybody. Therefore, you do not need a GitHub account to be able to download anything. However, if you want to ask a question or request support, you are going to need a GitHub account, which is free and easy to make.
+
+## People
 
 The workshop is going to be delivered by:
 
@@ -21,7 +23,7 @@ The workshop is going to be delivered by:
   - Ryan A. Pepper, and
   - [Hans Fangohr](https://fangohr.github.io)
 
-## Current workshop
+## Workshop information
 
 The current workshop is organised by [Spintalks](https://www.spintalks.org/home) and [IEEE Magnetic Society](http://www.ieeemagnetics.org). It is a free workshop and it is open for scientists and students working in magnetism and magnetic materials fields. To subscribe, please send an email to [listserv@listserv.unl.edu](listserv@listserv.unl.edu) with `subscribe oommf-tutorial Full Name` in the body of the message (replace "Full Name" by your full name). After you send a subscription email, you are going to get a confirmation email and then, before each session, you are going to get a Zoom registration request. Please register for each session and you are going to be sent a Zoom session link. In addition to Zoom, the tutorial sessions will be broadcast live at https://www.twitch.tv/onlinespintronics. The recording of each live broadcast will be available on Twitch immediately after each session.
 
@@ -31,17 +33,17 @@ The workshop consists of 3 sessions:
 2. Thursday, June 25 2020, 12:00-13:30 (ET) - Micromagnetic models and drivers in Ubermag
 3. Thursday, July 02 2020, 12:00-13:30 (ET) - Data analysis and visualisation
 
-(12:00 in New York = 17:00 in London = 18:00 in Paris) In each session, we plan having a 5-10 minutes break.
+(12:00 in New York = 17:00 in London = 18:00 in Paris) In each session, there is going to be a 5-10 minutes break, approximately after the first 45 minutes.
 
 ## What to do before the workshop?
 
-1. Subscribe (if you have not done it already) by following instructions in "Current workshop" section. By subscribing, you are going to get a Zoom link for each session.
+1. Subscribe (if you have not done it already) by following instructions in "Workshop information" section.
 
 2. The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop.
 
-3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. Ubermag in the cloud can be accessed using Binder badge in the table above. Binder is a shared service and starting it can sometimes take a few minutes, so please be patient.
+3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and all you need is a web browser (we recommend Google Chrome) and internet connection. Ubermag in the cloud can be accessed using Binder badge in the table above. Please note that Binder is a free shared service and starting it can sometimes take a few minutes, so please be patient.
 
-WARNING: The most recent update of Safari browser on MacOS sometimes does not interpret the colours well in 3D interactive plots and we recommend using [Google Chrome](https://www.google.com/chrome/) for Ubermag.
+**WARNING:** The most recent update of Safari browser on MacOS sometimes does not deal with Jupyter widgets well and we recommend using [Google Chrome](https://www.google.com/chrome/) for running Ubermag in Jupyter.
 
 ## Materials
 
@@ -57,7 +59,7 @@ If you require support, have questions, want to report a bug, want to suggest an
 
 1. Raise an issue in this repository at any time. Please be aware that questions and answers in GitHub issues are publicly available, so please be careful not to share any personal information you do not want being public or any confidential research-related information.
 
-2. During live sessions, please send your question to either Ryan A. Pepper or Hans Fangohr as a private message. During the live sessions Marijan Beg will go through the questions and answer some of them, depending on the time limitations and the number of questions. If you question does not get answered, please go to step 1.
+2. During live sessions, please send your question to either Ryan A. Pepper or Hans Fangohr as a private message. During the live sessions Marijan Beg will go through the questions and answer some of them, depending on the time limitations and the number of questions. If your question is not answered, please raise an issue in this repository.
 
 ## License
 
@@ -71,4 +73,4 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 - [IEEE Magnetic Society](http://www.ieeemagnetics.org)
 
-- We thank Xin Fan and Kiril Belashchenko for all the hard work organising the workshop.
+- We thank [Xin Fan](https://sites.google.com/view/xinfan/people) and [Kiril Belashchenko](http://physics.unl.edu/belashchenko/) for giving us an opportunity to deliver this workshop all the hard work organising it.
