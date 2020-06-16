@@ -1,12 +1,19 @@
-FROM ubermag/oommf
+FROM ubuntu:20.04
 
-USER root
+RUN apt-get update -y
+RUN apt-get install -y wget curl make
 
-RUN apt update -y
-RUN apt install -y git python3-pip curl
-RUN python3 -m pip install --upgrade pip pytest-cov nbval pycodestyle oommfc
+# Install Miniconda
+RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+RUN bash Miniconda3-latest-Linux-x86_64.sh -b
+RUN rm -f Miniconda3-latest-Linux-x86_64.sh
+ENV PATH="/root/miniconda3/bin:${PATH}"
 
-COPY . /usr/local/workshop/
-RUN chown -R oommfuser /usr/local/workshop/  # Make sure it is owned by the user.
-USER oommfuser
-WORKDIR /usr/local/workshop
+# Install ubermag
+RUN conda update conda
+RUN conda create -n ubermag python=3.8
+SHELL ["conda", "run", "-n", "ubermag", "/bin/bash", "-c"]  # necessary to activate environment
+RUN conda install --channel conda-forge ubermag=0.21 nbval pycodestyle
+
+COPY . /usr/local/ubermag/
+WORKDIR /usr/local/ubermag
