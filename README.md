@@ -1,5 +1,5 @@
 # Workshop: Micromagnetics with Ubermag
-Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1</sup>
+Marijan Beg<sup>1</sup>, Ryan A. Pepper<sup>1</sup>, and Hans Fangohr<sup>1,2</sup>
 
 <sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 <sup>2</sup> *European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany*  
@@ -7,61 +7,67 @@ Marijan Beg<sup>1,2</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>2,1<
 | Description | Badge |
 | --- | --- |
 | Builds | [![Build Status](https://travis-ci.org/ubermag/workshop.svg?branch=master)](https://travis-ci.org/ubermag/workshop) |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master?urlpath=lab/tree/tutorials/index.ipynb) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| Zoom | [![Zoom_ID 74465485256](https://img.shields.io/badge/Zoom_ID-74465485256-brightgreen.svg)](https://us04web.zoom.us/j/74465485256) |
 
 ## About
 
-This repository is a place where all the materials (slides, tutorials, and exercises) used in Ubermag workshops are stored.
+This repository is a place where all the information and materials related to the workshop will be shared. In addition, in this repository, we are going to communicate with our participants using `Issues`. This is a public repository and it can be seen by everybody and you do not need a GitHub account to be able to download anything. However, if you want to ask a question, you are going to need a GitHub account.
 
-1. The slides (as PDF) can be found in `slides` directory. The slides do not have animations in order to make sure the files are of reasonable size and accessible by everybody. If you want the full presentation in Keynote format, please let Marijan Beg know. The slides are going to be extended as we progress through other sessions.
+The workshop is going to be delivered by:
 
-2. Tutorials and exercises as Jupyter notebooks are available in `tutorials` directory. More will be added as we go through the workshop. They are also accessible via Binder.
-
-3. The materials addressing (too) specific questions we did not have time to discuss during live sessions, are going to be available in `extras` directory.
-
-This is a public repository and it can be seen by everybody. If you want to contribute to it, please be careful what data you share.
+  - [Marijan Beg](https://cmg.soton.ac.uk/people/mb1a15/),
+  - Ryan A. Pepper, and
+  - [Hans Fangohr](https://fangohr.github.io)
 
 ## Current workshop
 
-The current workshop is divided into 4 sessions:
+The current workshop is organised by [Spintalks](https://www.spintalks.org/home) and [IEEE Magnetic Society](http://www.ieeemagnetics.org). It is a free workshop and it is open for scientists and students working in magnetism and magnetic materials fields. To subscribe, please send an email to [listserv@listserv.unl.edu](listserv@listserv.unl.edu) with `subscribe oommf-tutorial Full Name` in the body of the message (replace "Full Name" by your full name). After you send a subscription email, you are going to get a confirmation email and then, before each session, you are going to get a Zoom registration request. Please register for each session and you are going to be sent a Zoom session link. In addition to Zoom, the tutorial sessions will be broadcast live at https://www.twitch.tv/onlinespintronics. The recording of each live broadcast will be available on Twitch immediately after each session.
 
-1. Friday 24 April 2020, 14:00-15:30 (UK time) - The basics of micromagnetics, Jupyter, and Python
-2. Wednesday 29 April 2020, 14:00-15:30 (UK time) - Micromagnetics with Ubermag
-3. Monday 4 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag 1
-4. Thursday 14 May 2020, 14:00-15:30 (UK time) - Data analysis and visualisation with Ubermag 2
+The workshop consists of 3 sessions:
 
-Optional follow-up sessions, depending on the requests and feedback might be organised in the future.
+1. Thursday, June 18 2020, 12:00-13:30 (ET) - Introduction to micromagnetics and Ubermag  
+2. Thursday, June 25 2020, 12:00-13:30 (ET) - Micromagnetic models and drivers in Ubermag
+3. Thursday, July 02 2020, 12:00-13:30 (ET) - Data analysis and visualisation
+
+(12:00 in New York = 17:00 in London = 18:00 in Paris) In each session, we plan having a 5-10 minutes break.
 
 ## What to do before the workshop?
 
-1. The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop and join the session using this link: https://us04web.zoom.us/j/74465485256. There is no need to create an account with Zoom.
+1. Subscribe (if you have not done it already) by following instructions in "Current workshop" section. By subscribing, you are going to get a Zoom link for each session.
 
-2. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. Ubermag in the cloud can be accessed using Binder badge in the table above. Starting the cloud service can take a few minutes, so please be patient.
+2. The workshop will delivered using [Zoom](https://zoom.us). Please install it before the workshop.
 
-WARNING: The most recent update of Safari browser on MacOS sometimes does not interpret the colours well in 3D interactive plots and we recommend using Google Chrome for Ubermag.
+3. To follow the tutorials and exercises, you do not need to install anything on your machine or download (clone) this repository. The tutorials and exercises can be run in the cloud and no files will be created on your machine. Ubermag in the cloud can be accessed using Binder badge in the table above. Binder is a shared service and starting it can sometimes take a few minutes, so please be patient.
 
-## Support
+WARNING: The most recent update of Safari browser on MacOS sometimes does not interpret the colours well in 3D interactive plots and we recommend using [Google Chrome](https://www.google.com/chrome/) for Ubermag.
 
-If you require support, have questions, want to report a bug, or want to suggest an improvement, please raise an issue in [ubermag/help](https://github.com/ubermag/help) repository.
+## Materials
+
+1. Slides used during the workshop can be found in `slides` directory. The slides are going to be in a single file, which is going to be extended before every session. *(PDF slides do not have animations in order to make sure the files are of reasonable size and accessible by everybody. If you want the presentation in Keynote or PowerPoint format, please raise an issue.)*
+
+2. Tutorials and exercises as Jupyter notebooks are available in `tutorials` directory. More will be added as we go through the workshop.
+
+3. In `extras` directory, we share all the materials we refer to when we answer questions.
+
+## How to ask questions?
+
+If you require support, have questions, want to report a bug, want to suggest an improvement, or have any criticism, please feel free to let us know. In order to make sure we stay organised as much as possible, we kindly ask all participants to ask questions in one of the two ways:
+
+1. Raise an issue in this repository at any time. Please be aware that questions and answers in GitHub issues are publicly available, so please be careful not to share any personal information you do not want being public or any confidential research-related information.
+
+2. During live sessions, please send your question to either Ryan A. Pepper or Hans Fangohr as a private message. During the live sessions Marijan Beg will go through the questions and answer some of them, depending on the time limitations and the number of questions. If you question does not get answered, please go to step 1.
 
 ## License
 
 Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please refer to the [LICENSE](LICENSE) file.
 
-## How to cite
-
-If you use Ubermag, please cite it as:
-
-1. M. Beg, R. A. Pepper, and H. Fangohr. User interfaces for computational science: A domain specific language for OOMMF embedded in Python. [*AIP Advances* **7**, 56025 (2017)](http://aip.scitation.org/doi/10.1063/1.4977225).
-
-2. M. Beg, R. A. Pepper, T. Kluyver, and H. Fangohr. ubermag/oommfc: Python interface to OOMMF integrated into Jupyter notebook. Zenodo. DOI: [10.5281/zenodo.3539494](http://doi.org/10.5281/zenodo.3539494) (2020).
-
 ## Acknowledgements
-
-Developed as a part of:
 
 - [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research Infrastructure project (676541)
 
 - EPSRC Programme grant on [Skyrmionics](http://www.skyrmions.ac.uk) (EP/N032128/1).
+
+- [IEEE Magnetic Society](http://www.ieeemagnetics.org)
+
+- We thank Xin Fan and Kiril Belashchenko for all the hard work organising the workshop.
