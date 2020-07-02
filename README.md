@@ -55,7 +55,7 @@ In each session, there is going to be a 5-10 minutes break, approximately after 
 1. Slides used during the workshop can be found in `slides` directory. We are not going to split the slides into separate files for each session, so all the slides are always going to be in a single PDF file.
 *(PDF slides do not have animations in order to make sure the files are of reasonable size and accessible by everybody. If you want the presentation in original Keynote (or exported PowerPoint) format, please raise an issue and we will do our best you get them.)*
 
-2. Tutorials and exercises as Jupyter notebooks are available in `tutorials` directory. Similar to slides, more will be added as we go through the workshop. Those notebooks are the ones you see when you open Binder. 
+2. Tutorials and exercises as Jupyter notebooks are available in `tutorials` directory. Similar to slides, more will be added as we go through the workshop. Those notebooks are the ones you see when you open Binder.
 
 3. In `extras` directory, we share all the other materials, which do not belong to `slides` or `tutorials`.
 
