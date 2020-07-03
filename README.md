@@ -73,6 +73,18 @@ After the workshop (03 July 2020), we kindly ask all participants not to raise a
 
 In order to help explain certain topics in more details, for which we do not have enough time during live sessions, we are going to be making video tutorials and uploading them to our [YouTube channel](https://www.youtube.com/channel/UC7MSqVQSMFV42R1jAYmKGLg).
 
+## What happens after the workshop?
+
+After the workshop, this repository is going to be available indefinitely. When we schedule a new workshop, we are going to make a release (a snapshot of the repository as it was at the end of workshop). You can find the it under "releases". This allows you to download a zip-file of all the materials.
+
+All issues (questions and answers) are going to stay in this repository, so you can refer to them at any time.
+
+We ask all participants to keep asking questions in our dedicated [support repository](https://github.com/ubermag/help).
+
+## Survey
+
+We ask all participants to complete our online survey (coming soon).
+
 ## License
 
 Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please refer to the [LICENSE](LICENSE) file.
